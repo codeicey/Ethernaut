@@ -1,0 +1,52 @@
+{
+	"compiler": {
+		"version": "0.6.0+commit.26b70077"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_adr",
+						"type": "address"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/GateKeeperTwoAttack.sol": "GatekeeperTwoAttack"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/GateKeeperTwoAttack.sol": {
+			"keccak256": "0x4af749c009eb936fa3beb82966a388c7e22e3dfc4653d16a0859fa50341f06f8",
+			"urls": [
+				"bzz-raw://da6146e65746a962bc4af302bf84ca16ed61ed08557b233778c5a4baaba41f33",
+				"dweb:/ipfs/QmeRfR2wfqLgkJVj4TyUF6S6PGP74cNgVwM4QP1pFKfEdH"
+			]
+		}
+	},
+	"version": 1
+}
